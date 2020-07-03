@@ -28,4 +28,4 @@ jobs:
     - name: Install surge 
       run: npm install -g surge
     - name: Run Surge
-      run: surge ./ siraj.piaicproject1.sh -- token ${{secret.TOKEN_HTMLCSSP1}}
+      run: surge ./ siraj.piaicproject1.sh -- token ${{secrets.TOKEN_HTMLCSSP1}}
