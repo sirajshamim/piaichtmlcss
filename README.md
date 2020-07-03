@@ -1,2 +1,2 @@
 # Piaic HTML file
-piaic html css project    https://siraj.piaicp1.surge.sh
+piaic html css project    http://siraj.piaicp1.surge.sh
